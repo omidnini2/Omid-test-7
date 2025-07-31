@@ -1,0 +1,9 @@
+# Ignore audio outputs and model files
+*.wav
+*.mp3
+*.webm
+*.pth
+*.ckpt
+*.onnx
+outputs/
+models/
